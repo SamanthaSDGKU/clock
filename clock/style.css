@@ -1,0 +1,37 @@
+
+
+body{
+    background: #0d5e8a;
+    color:#ffffff;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.wrap{
+    width: 80%;
+    max-height: 1000px;
+}
+
+.widget p{
+    display: inline-block;
+    line-height: 1em;
+}
+
+.date{
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 100%;
+    background: rgba(0, 0, 0, .5);
+    font-family: 'Oswald', sans-serif;
+}
+
+.clock{
+    width:100%;
+    padding:20px;
+    font-size: 4em;
+    text-align: center;
+    background: rgba(0,0,0,.5);
+    font-family: 'Oswald', sans-serif;
+}
